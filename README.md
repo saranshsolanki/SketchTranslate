@@ -47,7 +47,7 @@ Sambhav : [Sambhav Shah](https://www.linkedin.com/in/sambhav-shah-81826344?ppe=1
 
 
 # Todo
-1. Translate a group of artboards together
+1.  ~~Translate a group of artboards together  ~~
 
 
 
