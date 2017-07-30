@@ -11,10 +11,12 @@ This plugin uses the **FREE Yandex Translate Api.** Create your own key in less 
 
 You can translate an artboard, group or even a text-layer depending on your needs.
 
+
 # Installation
 1. Download this Plugin
 2. Double click the plugin file to automatically install
 3. The shortcut should now be available under the Plugin's menu in Sketch
+
 
 
 # Usage
@@ -37,11 +39,17 @@ Enter the language codes in the plugin.
 1. Select an **artboard**, **group** or **text-layer** which you want to translate.
 2. **Custom** option lets you choose any language from the given set of supported languages. In the example above, the group is translated from "en" (English) to "es" (Spanish)
 
+
+
 # Contributors
 Sambhav : [Sambhav Shah](https://www.linkedin.com/in/sambhav-shah-81826344?ppe=1)
 
+
+
 # Todo
 1. Translate a group of artboards together
+
+
 
 # Contact
 Saransh : [@SaranshSolanki](https://twitter.com/SaranshSolanki)
