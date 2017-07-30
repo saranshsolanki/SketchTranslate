@@ -35,7 +35,7 @@ Enter the language codes in the plugin.
 
 ### How to use
 1. Select an **artboard**, **group** or **text-layer** which you want to translate.
-2. **Custom** option lets you choose any language from the given set of supported languages.
+2. **Custom** option lets you choose any language from the given set of supported languages. In the example above, the group is translated from "en" (English) to "es" (Spanish)
 
 # Contributors
 Sambhav : [Sambhav Shah](https://www.linkedin.com/in/sambhav-shah-81826344?ppe=1)
