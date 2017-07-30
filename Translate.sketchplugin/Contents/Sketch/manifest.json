@@ -1,0 +1,61 @@
+{
+  "name": "Translate",
+  "description": "Translate your sketch files",
+  "author": "Saransh Solanki",
+  "homepage": "www.saranshsolanki.in",
+  "identifier" : "com.example.sketch.3641e459-8bc2-478e-b44e-cd1a6376e67",
+  "version" : "1.0",
+  "description" : "Translate your artboards to different languages",
+
+ "commands" : [
+    {
+      "script" : "script.js",
+      "handler" : "translateTextIndonesia",
+      "name" : "Indonesia",
+      "identifier" : "indonesia",
+      "shortcut" : "ctrl shift i",
+    },
+    {
+      "script" : "script.js",
+      "handler" : "translateTextPortugese",
+      "name" : "Portugese",
+      "identifier" : "portugese",
+      "shortcut" : "ctrl shift p",
+    },
+    {
+      "script" : "script.js",
+      "handler" : "translateTextSpanish",
+      "name" : "Spanish",
+      "identifier" : "spanish",
+      "shortcut" : "ctrl shift s",
+    },
+    {
+      "script" : "script.js",
+      "handler" : "customTranslate",
+      "name" : "Custom",
+      "identifier" : "custom",
+      "shortcut" : "ctrl shift c",
+    },
+    {
+      "script" : "script.js",
+      "handler" : "userSetAPIKey",
+      "name" : "Set Yandex Api Key",
+      "identifier" : "setapikey"
+    }
+  ],
+  "menu" : {
+    "items" : [
+      "indonesia",
+      "portugese",
+      "spanish",
+      "custom",
+      "setapikey"
+    ],
+    "title" : "Translate"
+  },
+  "version": "1.0",
+  "description": "Translate your artboards",
+  "authorEmail": "saransh.solanki@gmail.com",
+}
+
+
