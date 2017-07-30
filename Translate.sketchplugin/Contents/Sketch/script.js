@@ -125,8 +125,10 @@ function customTranslate(context){
     var to_lang = getVerticalValue(context);
     userDefaults.synchronize(); // save
 
-    var contextnew = context.selection.objectAtIndex(0);
-    translate_text(context, contextnew, from_lang, to_lang);
+    for (var l = 0; l< context.selection.length; l++){
+      var contextnew = context.selection.objectAtIndex(l);
+      translate_text(context, contextnew, from_lang, to_lang);
+    }
   }
 }
 
@@ -135,18 +137,25 @@ function userSetAPIKey(context) {
 }
 
 function translateTextPortugese(context){
-  var contextnew = context.selection.objectAtIndex(0);
-  translate_text(context, contextnew,"en","pt");
+  for (var l = 0; l< context.selection.length; l++){
+    var contextnew = context.selection.objectAtIndex(l);
+    translate_text(context, contextnew, "en","pt");
+  }
 }
 
 function translateTextSpanish(context){
-  var contextnew = context.selection.objectAtIndex(0);
-  translate_text(context, contextnew, "en","es");
+  for (var l = 0; l< context.selection.length; l++){
+    var contextnew = context.selection.objectAtIndex(l);
+    translate_text(context, contextnew, "en","es");
+  }
+  
 }
 
 function translateTextIndonesia(context){
-  var contextnew = context.selection.objectAtIndex(0);
-  translate_text(context, contextnew, "en","id");
+  for (var l = 0; l< context.selection.length; l++){
+    var contextnew = context.selection.objectAtIndex(l);
+    translate_text(context, contextnew, "en","id");
+  }
 }
 
 function translate_text(originalContext, context, fromLanguage , toLanguage){
@@ -164,7 +173,7 @@ function translate_text(originalContext, context, fromLanguage , toLanguage){
       var layer = context;
       translate_layer(layer, fromLanguage, toLanguage, apiKey)
     } else {
-      app.displayDialog_withTitle("Not a valid text layer 🤔", "Umm, there's nothing here to translate!" +"\n" );
+      app.displayDialog_withTitle("Can't be translated  🤔", "Umm, seems like this isn't a valid text layer!" +"\n" );
     }
   } else {
     var result = askToEnterKey(originalContext, true);
