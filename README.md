@@ -41,16 +41,16 @@ Enter the language codes in the plugin.
 
 
 
-# Contributors
+## Contributors
 Sambhav : [Sambhav Shah](https://www.linkedin.com/in/sambhav-shah-81826344?ppe=1)
 
 
 
-# Todo
-1.  ~~Translate a group of artboards together~~
+## Todo
+~~Translate a group of artboards together~~
 
 
 
-# Contact
+## Contact
 Saransh : [@SaranshSolanki](https://twitter.com/SaranshSolanki)
 
