@@ -35,10 +35,10 @@ Enter the language codes in the plugin.
 
 ### How to use
 1. Select an **artboard**, **group** or **text-layer** which you want to translate.
-2. **Custom** option lets you choose any languages from the given set of supported languages.
+2. **Custom** option lets you choose any language from the given set of supported languages.
 
 # Contributors
-[Sambhav Shah](https://www.linkedin.com/in/sambhav-shah-81826344?ppe=1)
+Sambhav : [Sambhav Shah](https://www.linkedin.com/in/sambhav-shah-81826344?ppe=1)
 
 
 # Contact
