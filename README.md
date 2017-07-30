@@ -1,8 +1,13 @@
 # SketchTranslate
+
 Translate your artboards to different languages. Directly from your Sketch file. 
+
+
 ![alt text](https://github.com/saranshsolanki/SketchTranslate/blob/master/translate%20demo.gif?raw=true)
 
+
 This plugin uses the *FREE Yandex Translate Api.* Create your own key in less than 2 mins from [here] (https://tech.yandex.com/translate/doc/dg/concepts/api-overview-docpage/)
+
 
 You can translate a artboard, group or even a text layer depending on your needs.
 
@@ -23,13 +28,14 @@ Enter the language codes in the plugin.
 
 
 ### Shortcuts
-⋅⋅* **Indonesian** : ctrl + shift + i
-⋅⋅* **Portugese** : ctrl + shift + p
-⋅⋅* **Spanish** : ctrl + shift + s
-⋅⋅* **Custom** : ctrl + shift + c
+1. **Indonesian** : ctrl + shift + i
+2. **Portugese** : ctrl + shift + p
+3. **Spanish** : ctrl + shift + s
+4. **Custom** : ctrl + shift + c
 
-⋅⋅* Select an **artboard**, **group** or **text-layer** which you want to translate. 
-⋅⋅* **Custom** option lets you choose any languages from the given set of supported languages.
+### How to use
+1. Select an **artboard**, **group** or **text-layer** which you want to translate.
+2. **Custom** option lets you choose any languages from the given set of supported languages.
 
 # Contributors
 
