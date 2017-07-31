@@ -13,7 +13,7 @@ You can translate an artboard, group or even a text-layer depending on your need
 
 
 # Installation
-1. Download this Plugin
+1. [Download](https://github.com/saranshsolanki/SketchTranslate/archive/master.zip) this plugin
 2. Double click the plugin file to automatically install
 3. The shortcut should now be available under the Plugin's menu in Sketch
 
@@ -30,10 +30,10 @@ Enter the language codes in the plugin.
 
 
 ### Shortcuts
-1. **Indonesian** : ctrl + shift + i
-2. **Portugese** : ctrl + shift + p
-3. **Spanish** : ctrl + shift + s
-4. **Custom** : ctrl + shift + c
+1. **Indonesian** : ctrl + shift + i (translates from English to Indonesian)
+2. **Portugese** : ctrl + shift + p (translates from English to Portugese)
+3. **Spanish** : ctrl + shift + s (translates from English to Spanish)
+4. **Custom** : ctrl + shift + c (translates within custom languages)
 
 ### How to use
 1. Select an **artboard**, **group** or **text-layer** which you want to translate.
@@ -46,7 +46,7 @@ Sambhav : [Sambhav Shah](https://www.linkedin.com/in/sambhav-shah-81826344?ppe=1
 
 
 
-## Todo
+## Next Steps
 ~~Translate a group of artboards together~~
 
 
