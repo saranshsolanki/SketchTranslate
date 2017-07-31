@@ -187,7 +187,7 @@ function translate_text(originalContext, context, fromLanguage , toLanguage){
 
 function askToEnterKey(context, check) {
   var doc = context.document;
-  var userInput = doc.askForUserInput_initialValue("Enter your Yandex API Key", "Yandex key:");
+  var userInput = doc.askForUserInput_initialValue("Enter your Yandex API Key", "");
   if (check) {
     if (userInput && userInput.length() > 0) {
       return checkAndSaveYandexKey(userInput, check);
