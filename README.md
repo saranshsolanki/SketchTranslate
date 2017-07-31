@@ -41,10 +41,6 @@ Enter the language codes in the plugin.
 
 
 
-## Contributors
-Sambhav : [Sambhav Shah](https://www.linkedin.com/in/sambhav-shah-81826344?ppe=1)
-
-
 
 ## Next Steps
 ~~Translate a group of artboards together~~
