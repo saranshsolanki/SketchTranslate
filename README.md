@@ -1,4 +1,4 @@
-# SketchTranslate
+# Sketch Translate
 
 Translate your artboards to different languages. Directly from your Sketch file. 
 
