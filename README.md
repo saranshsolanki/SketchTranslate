@@ -30,21 +30,21 @@ Enter the language codes in the plugin.
 
 
 ### Shortcuts
-1. **Indonesian** : ctrl + shift + i (translates from English to Indonesian)
-2. **Portugese** : ctrl + shift + p (translates from English to Portugese)
-3. **Spanish** : ctrl + shift + s (translates from English to Spanish)
-4. **Custom** : ctrl + shift + c (translates within custom languages)
+1. **Arabic** : ctrl + shift + a (translates from English to Arabic)
+2. **Chinese** : ctrl + shift + c (translates from English to Chinese)
+3. **German** : ctrl + shift + g (translates from English to German)
+4. **Hindi** : ctrl + shift + h (translates from English to Hindi)
+5. **Korean** : ctrl + shift + k (translates from English to Korean)
+6. **Portugese** : ctrl + shift + p (translates from English to Portugese)
+7. **Russian** : ctrl + shift + r (translates from English to Russian)
+8. **Spanish** : ctrl + shift + s (translates from English to Spanish)
+9. **Other languages** : ctrl + shift + x (translates within custom languages)
+10. **Setup Yandex API Key** : ctrl + shift + y
+
 
 ### How to use
 1. Select an **artboard**, **group** or **text-layer** which you want to translate.
 2. **Custom** option lets you choose any language from the given set of supported languages. In the example above, the group is translated from "en" (English) to "es" (Spanish)
-
-
-
-
-## Next Steps
-~~Translate a group of artboards together~~
-
 
 
 ## Contact
