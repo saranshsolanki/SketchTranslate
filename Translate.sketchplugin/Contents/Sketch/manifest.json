@@ -4,51 +4,94 @@
   "author": "Saransh Solanki",
   "homepage": "www.saranshsolanki.in",
   "identifier" : "com.example.sketch.3641e459-8bc2-478e-b44e-cd1a6376e67",
-  "version" : "1.0",
+  "version" : "2.0",
   "description" : "Translate your artboards to different languages",
 
  "commands" : [
     {
       "script" : "script.js",
-      "handler" : "translateTextIndonesia",
-      "name" : "Indonesia",
-      "identifier" : "indonesia",
-      "shortcut" : "ctrl shift i",
+      "handler" : "translateTextArabic",
+      "name" : "Arabic",
+      "identifier" : "arabic",
+      "shortcut" : "ctrl shift a"
     },
     {
+      "script" : "script.js",
+      "handler" : "translateTextChinese",
+      "name" : "Chinese",
+      "identifier" : "chinese",
+      "shortcut" : "ctrl shift c"
+    },
+     {
+      "script" : "script.js",
+      "handler" : "translateTextGerman",
+      "name" : "German",
+      "identifier" : "german",
+      "shortcut" : "ctrl shift g"
+    },
+    {
+      "script" : "script.js",
+      "handler" : "translateTextHindi",
+      "name" : "Hindi",
+      "identifier" : "hindi",
+      "shortcut" : "ctrl shift h"
+    },
+    {
+      "script" : "script.js",
+      "handler" : "translateTextKorean",
+      "name" : "Korean",
+      "identifier" : "korean",
+      "shortcut" : "ctrl shift k"
+    },
+     {
       "script" : "script.js",
       "handler" : "translateTextPortugese",
       "name" : "Portugese",
       "identifier" : "portugese",
-      "shortcut" : "ctrl shift p",
+      "shortcut" : "ctrl shift p"
     },
     {
+      "script" : "script.js",
+      "handler" : "translateTextRussian",
+      "name" : "Russian",
+      "identifier" : "russian",
+      "shortcut" : "ctrl shift r"
+    },
+     {
       "script" : "script.js",
       "handler" : "translateTextSpanish",
       "name" : "Spanish",
       "identifier" : "spanish",
-      "shortcut" : "ctrl shift s",
+      "shortcut" : "ctrl shift s"
     },
     {
       "script" : "script.js",
       "handler" : "customTranslate",
-      "name" : "Custom",
+      "name" : "Other languages",
       "identifier" : "custom",
-      "shortcut" : "ctrl shift c",
+      "shortcut" : "ctrl shift x"
     },
     {
       "script" : "script.js",
       "handler" : "userSetAPIKey",
       "name" : "Set Yandex Api Key",
-      "identifier" : "setapikey"
+      "identifier" : "setapikey",
+      "shortcut" : "ctrl shift y"
     }
   ],
   "menu" : {
     "items" : [
-      "indonesia",
+      "arabic",
+      "chinese",
+      "german",
+      "hindi",
+      "korean",
       "portugese",
+      "russian",
       "spanish",
+      "-",
       "custom",
+      "-",
       "setapikey"
     ],
     "title" : "Translate"
