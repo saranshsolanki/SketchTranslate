@@ -2,7 +2,10 @@
 
 Translate your artboards to different languages. Directly from your Sketch file. 
 
-![](translate-demo.gif)
+
+![alt text](https://github.com/saranshsolanki/SketchTranslate/blob/master/translate%20demo.gif?raw=true)
+
+
 This plugin uses the **FREE Yandex Translate Api.** Create your own key in less than 2 mins from [here](https://tech.yandex.com/translate/doc/dg/concepts/api-overview-docpage/)
 
 
@@ -35,7 +38,7 @@ Enter the language codes in the plugin.
 6. **Portugese** : ctrl + shift + p (translates from English to Portugese)
 7. **Russian** : ctrl + shift + r (translates from English to Russian)
 8. **Spanish** : ctrl + shift + s (translates from English to Spanish)
-9. **Other languages** : ctrl + shift + x (translates within custom languages)
+9. **Other languages** : ctrl + shift + x (translates within 90+ custom languages)
 10. **Setup Yandex API Key** : ctrl + shift + y
 
 
