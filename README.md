@@ -49,7 +49,7 @@ Select an **artboard**, **group**, **symbol**, or **text-layer** which you wish 
 ⭐️ this repo
 
 ## Contact
-Saransh : [@SaranshSolanki](https://twitter.com/SaranshSolanki)
+Saransh : [@SaranshSolanki](https://twitter.com/saranshsol)
 
 ### License
 MIT © [@saranshsolanki](https://github.com/saranshsolanki/)
