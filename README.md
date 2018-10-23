@@ -43,7 +43,7 @@ Enter the language codes in the plugin.
 
 
 ### How to use
-Select an **artboard**, **group**, **symbol**, or **text-layer** which you wish to translate. Artboard translation creates a new artboard with the translation changes.
+Select an **artboard**, **group**, **symbol**, or **text-layer** which you wish to translate. Artboard translation creates a new artboard with the changes.
 
 
 
