@@ -43,8 +43,8 @@ Enter the language codes in the plugin.
 
 
 ### How to use
-1. Select an **artboard**, **group** or **text-layer** which you want to translate.
-2. **Custom** option lets you choose any language from the given set of supported languages. In the example above, the group is translated from "en" (English) to "es" (Spanish)
+Select an **artboard**, **group**, **symbol**, or **text-layer** which you wish to translate. Artboard translation creates a new artboard with the translation changes.
+
 
 
 ## Contact
