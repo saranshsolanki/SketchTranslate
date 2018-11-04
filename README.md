@@ -48,10 +48,6 @@ Select an **artboard**, **group**, **symbol**, or **text-layer** which you wish 
 ### Like it?
 ⭐️ this repo
 
-If you found this useful, you can give me a cup of coffee :)
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=73P9VVF6J3EXS)
-
 ## Contact
 Saransh : [@SaranshSolanki](https://twitter.com/saranshsol)
 
