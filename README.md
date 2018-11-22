@@ -49,6 +49,7 @@ Select an **artboard**, **group**, **symbol**, or **text-layer** which you wish 
 ⭐️ this repo
 
 If you found this useful, you can give me a cup of coffee :)
+
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6N9CDFW7DMZBW)
 
 ## Contact
